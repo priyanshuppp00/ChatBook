@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 asgiref==3.8.1
 beautifulsoup4==4.12.3
 crispy-bootstrap4==2024.1
@@ -46,4 +45,4 @@ sqlparse==0.4.1
 tzdata==2024.1
 virtualenv==20.26.5
 whitenoise==6.7.0
->>>>>>> 180832f03beef90710a90ca6b4065224a01bc9c5
+
